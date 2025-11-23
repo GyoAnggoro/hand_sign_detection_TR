@@ -1,2 +1,6 @@
-# hand_sign_detection_TR
-detecting sign language using camera using python language
+which needs to be installed before running the program
+
+- opencv-python
+- mediapipe
+- numpy
+- scikit-learn
